@@ -16,7 +16,9 @@ status-website:
   introTitle: "AdaptChat Status"
   introMessage: The current status of different Adapt services
   theme: dark
+  favicon: https://raw.githubusercontent.com/AdaptChat/branding/main/icons/adapt-fg-transparent.png
   faviconSvg: https://raw.githubusercontent.com/AdaptChat/branding/main/icons/adapt-fg-transparent.svg
+  logoUrl: https://raw.githubusercontent.com/AdaptChat/branding/main/icons/adapt-fg-transparent.png
   navbar:
     - title: Status
       href: /
