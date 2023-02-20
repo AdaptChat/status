@@ -4,35 +4,39 @@
     "url": "https://api.adapt.chat",
     "icon": "https://icons.duckduckgo.com/ip3/api.adapt.chat.ico",
     "slug": "rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 386,
-    "timeWeek": 361,
-    "timeMonth": 363,
-    "timeYear": 363,
-    "dailyMinutesDown": {}
+    "time": 371,
+    "timeDay": 565,
+    "timeWeek": 386,
+    "timeMonth": 371,
+    "timeYear": 371,
+    "dailyMinutesDown": {
+      "2023-02-20": 0
+    }
   },
   {
     "name": "convey",
     "url": "https://convey.adapt.chat",
     "icon": "https://icons.duckduckgo.com/ip3/convey.adapt.chat.ico",
     "slug": "convey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 390,
-    "timeWeek": 312,
+    "timeDay": 406,
+    "timeWeek": 314,
     "timeMonth": 346,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-20": 0
+    }
   }
 ]
